@@ -1,1 +1,1 @@
-# bolt-generated-project-b
+# bolt-generated-project
